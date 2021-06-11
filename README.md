@@ -1,4 +1,12 @@
-### Hi there 👋
+### Greetings! 👋 My name is Ravi and I am an aspiring data scientist with a background in banking and customer service. I am interested in collaborating with and learning from those experienced in the fields of Data Science and AI.
+
+- I am a passionate reader of all kinds of books, both fiction and non-fiction.
+- I have a profound interest in AI and machine learning and their applications to finding solutions to real world problems.
+- I work at a small credit union while studying Data Science.
+
+I can be reached through [linkedin](https://www.linkedin.com/in/ravindra-tennekone/)
+
+Cheers, and thank you for your visit!
 
 <!--
 **RAV10K1/rav10k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
